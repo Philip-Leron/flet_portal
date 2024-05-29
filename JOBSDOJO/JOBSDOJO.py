@@ -8,7 +8,7 @@ class Main(UserControl):
     def __init__(self, page:Page):
         super().__init__()
         self.page = page
-        self.page.title="JOBSDOJO.COM -- Jobs & More Portal"
+        self.page.title="sites.COM -- Jobs & More Portal"
         self.page.horizontal_alignment=MainAxisAlignment.CENTER
         self.page.vertical_alignment=CrossAxisAlignment.CENTER
         #self.page.alignment=MainAxisAlignment.CENTER
